@@ -23,4 +23,7 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-p { color: white; }
+
+p { 
+  color: white; 
+}
