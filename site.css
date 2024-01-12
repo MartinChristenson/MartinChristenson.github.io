@@ -27,3 +27,9 @@ body {
 p { 
   color: white; 
 }
+
+h1, 
+h2, 
+h5 { 
+  color: #ffffff; 
+}
